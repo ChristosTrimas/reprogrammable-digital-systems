@@ -1,0 +1,5 @@
+In part 3 using SDSoC we create the enviroment for the accelarator, choosing the data transfer protocol for the Zedboard
+in order to achive maximum efficiency.
+
+After creating the image using the SDSoC, we tested the accelarator in the Zedboard and achieved a 22mil throughput, out of 25mil that is the theoretical
+value for the accelarator dimension = 4.
