@@ -1,0 +1,2 @@
+In part 1 we simply create a header file that contains all the libraries that we use in the project.
+Also we create a copy of myFunc and name it myFunc_Accel, the function that we will accelarate in the next parts.
