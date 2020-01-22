@@ -1,0 +1,4 @@
+to run the first part just open the folder from the terminal and run the command
+:~$bash script.sh
+
+in the .sh there are a few inputs for dimension 4 and 16
