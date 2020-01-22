@@ -1,0 +1,1 @@
+We split part two in 2 phases. In this phase we use various techniques like loop unrolling to simplify the C code of myFunc_Accel.
