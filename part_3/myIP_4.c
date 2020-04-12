@@ -24,19 +24,7 @@ void myFunc_Accel_4 (unsigned int size, unsigned int dim, dataType_t threshold, 
 	unsigned int k;
 	unsigned int l;
 
-//	dim=4;
-//	size=10000;
-//	threshold=10000;
-
-
-
-//#pragma HLS INTERFACE ap_bus depth=16 port=data0
-//#pragma HLS INTERFACE ap_bus depth=16 port=data1
-//#pragma HLS INTERFACE ap_bus depth=16  port=data2
-
-
  	 float d0[16];
-// 	 float d2[size*dim];
 
 
 	for (  k = 0 ; k < 4 ; k ++ )
